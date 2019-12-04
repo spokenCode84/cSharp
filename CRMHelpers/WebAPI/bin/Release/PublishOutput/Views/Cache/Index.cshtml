@@ -1,0 +1,168 @@
+﻿
+@{
+    ViewBag.Title = "Cache";
+}
+
+@model WebAPI.Models.CacheViewModel
+
+
+<h2>External Cache Admin</h2>
+
+<br/>
+<div class="form-group">
+    <div class="col-xs-4">
+        <button type="button" class=" col-xs-12 btn btn-primary" id="clearAllKeys">Clear All Keys</button>
+    </div>
+    
+    <div class="col-xs-8">
+        <h5 class="col-xs-4"><span style="float:right">CRM Plural Entity Name</span></h5>
+        <input class="col-xs-5" type="text" id="txtEntityName" />
+        <button type="button" class=" col-xs-2 col-sm-offset-1 btn btn-primary" id="addEntity">Add To Cache</button>
+    </div>
+</div>
+
+<br/><br/>
+
+<div class="form-group">
+    <div class="col-xs-4">
+        <button type="button" class="col-xs-12 btn btn-primary" id="addConfigurationEntities">Add Configuration Entities</button>
+    </div>
+    
+    <div class="col-xs-8">
+        <h5><span>Configuration Entities = ifb_integrationconfiguration, ifb_externalsystemlinks</span></h5>
+  </div>
+</div>
+
+
+
+
+<br/>
+
+<table class="col-xs-12">
+    <thead>
+    <tr>
+        <th class="col-xs-1">#</th>
+        <th class="col-xs-2">Key</th>
+        <th class="col-xs-2">Action</th>
+        <th class="col-xs-8">Value</th>
+    </tr>
+    </thead>
+    <tbody>
+    
+    @{ int counter = 0; }
+
+
+        @foreach (var redisKeyValue in Model.redisDictionary)
+        {
+            counter++;
+                
+             <tr>
+                 <td>
+                     @counter
+                 </td>
+                 <td>
+                     @Html.Label(redisKeyValue.Key)
+                 </td>
+                 <td>
+                     <a class="delete" data-rediskey="@redisKeyValue.Key">Delete</a>
+                     @*@Html.ActionLink("Delete Key", "Delete", "Cache", new {key = redisKeyValue.Key}, null)*@
+                 </td>
+                 <td>
+                     @Html.Raw(Json.Encode(redisKeyValue.Value))
+                     @*@Html.Label(redisKeyValue.Value)*@
+                 </td>
+             </tr>
+         }
+    </tbody>
+</table>
+
+@section scripts {
+    <script type="text/javascript">
+        $(document).ready(function() {
+
+            $('a.delete').click(function() {
+                var key = $(this).attr('data-rediskey');
+                deleteFromCache(key);
+            });
+
+            $('#clearAllKeys').click(function() {
+                clearAllKeysFromCache();
+            });
+
+            $('#addEntity').click(function() {
+                addManualEntityToCache();
+            });
+
+            $('#addConfigurationEntities').click(function() {
+                addEntityToCache('ifb_externalsystemlinkses', addEntityToCache('ifb_integrationconfigurations', function() {
+                    alert('Added');
+                    window.location.reload();
+                }));
+            });
+        });
+
+        function deleteFromCache(key) {
+
+            var deleteURL = '/Cache/Delete?key=' + key;
+
+            $.ajax({
+                url: deleteURL,
+                type: 'DELETE',
+                success: function() {
+                    alert('Key Deleted Successfully');
+                    window.location.reload();
+                },
+                error: function(err) {
+                    alert('failed');
+                }
+            });
+        }
+
+        function clearAllKeysFromCache() {
+            var deleteURL = '/Cache/DeleteAllKeys';
+
+            $.ajax({
+                url: deleteURL,
+                type: 'DELETE',
+                success: function() {
+                    alert('Keys Deleted Successfully');
+                    window.location.reload();
+                },
+                error: function(err) {
+                    alert('failed');
+                }
+            });
+        }
+
+        function addManualEntityToCache() {
+            var entityPluralName = $('#txtEntityName').val();
+
+            if (entityPluralName.length === 0) {
+                alert('No Entity Name Entered');
+                return;
+            }
+
+            addEntityToCache(entityPluralName, function () {
+                alert('Entity Added Successfully');
+                window.location.reload();
+            });
+        }
+
+        function addEntityToCache(entityPluralName, fnSuccess) {
+
+            var addEntityURL = '/Cache/AddEntityToCache?EntityName=' + entityPluralName;
+
+            $.ajax({
+                url: addEntityURL,
+                type: 'ADD',
+                success: function() {
+                    
+                    fnSuccess();
+                },
+                error: function(err) {
+                    alert('Failed ' + err);
+                }
+            });
+        }
+    </script>
+}
