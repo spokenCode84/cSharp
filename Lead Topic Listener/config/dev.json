@@ -1,0 +1,11 @@
+{
+  "activeMqCxn": {
+    "userName": "CRM",
+    "password": "XXXXXXXXXXXXXXXx",
+    "uri": "tcp://ap-msgbkr-dev:61616",
+    "clientId": "CRM Client"
+  },
+  "queues": {
+    "newLead": "vConsumer.CRM.VirtualTopic.ifbi.newlead"
+  }
+}

@@ -1,0 +1,2425 @@
+2019-07-17 21:17:48,748 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:19:16,155 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:19:43,026 [1] INFO IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-17 21:42:19,621 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:42:19,835 [1] DEBUG IFB.CRM.Services.Lead.startup.Bootstrap - C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config
+2019-07-17 21:43:06,629 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:43:06,805 [1] DEBUG IFB.CRM.Services.Lead.startup.Bootstrap - C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config
+2019-07-17 21:43:39,622 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:44:17,231 [1] DEBUG IFB.CRM.Services.Lead.startup.Bootstrap - C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config
+2019-07-17 21:44:59,692 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:45:25,788 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:45:53,913 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:46:14,026 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-17 21:53:15,488 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:53:38,329 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "aource": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-17 21:58:08,277 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:58:37,100 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "aource": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-17 21:59:44,877 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 21:59:45,385 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-17 22:00:58,086 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-17 22:01:06,358 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "Testource": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-18 09:52:38,183 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-18 09:59:00,008 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-18 09:59:28,612 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-18 10:33:02,748 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-18 10:33:03,280 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "aource": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-18 10:33:23,009 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-18 10:33:23,584 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "aource": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "hi",
+    "lastName": "aaron",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-18 10:33:42,062 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-18 10:33:42,616 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"source":"IFBI Website","leadSourceCategory":"ContactUs","firstName":"ContactUs","lastName":"FormTest","contactMethod":"Email","phone":null,"email":"form@halomademeapc.com","formSourceSubCategory":"Other","policyNumber":"123546878","comments":"Hello world!","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":null,"policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-19 09:26:02,380 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:26:02,606 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Waiting for message
+2019-07-19 09:31:46,489 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:34:41,147 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:35:35,934 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:37:23,704 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:39:19,886 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:42:36,822 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:43:05,864 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:44:06,244 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:47:25,155 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 09:47:56,871 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:21:01,187 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:26:34,230 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:29:01,511 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:31:41,717 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:35:37,943 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:35:46,292 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:36:24,176 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: test
+2019-07-19 10:38:18,270 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:38:18,805 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: test
+2019-07-19 10:38:18,824 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 10:39:06,099 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Another Test
+2019-07-19 10:39:06,110 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 10:39:53,697 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:45:06,074 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:46:49,833 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:47:54,021 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:48:02,878 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...
+2019-07-19 10:48:02,903 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 10:54:44,448 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 10:55:41,648 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 11:01:10,663 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:33:58,376 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:35:11,148 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:35:46,310 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:37:27,133 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:37:28,061 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "XCEDOASD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "X6CVKLZFBC191XCEDOAS", "effectiveDate": "2019-06-18", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,131 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,173 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1386 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "D5FNYZ4F89966OPR1386", "effectiveDate": "2019-06-20", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,195 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,229 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "HVYRJ704JS454EWSSVCA", "effectiveDate": "2019-06-20", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,256 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,277 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "R69BW89F9T992EWSSVCA", "effectiveDate": "2019-06-20", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,306 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,325 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1386 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "R5FMML8WY6224OPR1386", "effectiveDate": "2019-06-20", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,355 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,374 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1386 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "400619N074673OPR1386", "effectiveDate": "2019-06-20", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,398 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,421 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1386 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "4DYJ0ZR4HN960OPR1386", "effectiveDate": "2019-06-20", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,446 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,469 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPRA205 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "NCTQ5NHY3M786OPRA205", "effectiveDate": "2019-06-21", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,497 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,517 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "ESCLXCDD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "FBP0898BKG516ESCLXCD", "effectiveDate": "2019-06-25", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,543 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,591 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "3KQBYB6WML205EWSSVCA", "effectiveDate": "2019-06-26", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,618 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,642 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "ESCLXCDD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "0PYGZH7WF2934ESCLXCD", "effectiveDate": "2019-06-26", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,672 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,691 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR9273 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "G0X2QKMSQQ531OPR9273", "effectiveDate": "2019-06-28", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,715 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,738 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1024 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "M7SDRJ8010919OPR1024", "effectiveDate": "2019-06-28", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,764 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,782 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1024 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "GZ0N2QKJMQ433OPR1024", "effectiveDate": "2019-06-28", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,804 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,846 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "FGXBZ433CL558EWSSVCA", "effectiveDate": "2019-06-28", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,869 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,892 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1024 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "LDY3T12L1C798OPR1024", "effectiveDate": "2019-06-28", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,913 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:28,958 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "CDSWS7C1TH622EWSSVCA", "effectiveDate": "2019-06-28", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:28,981 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,019 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1024 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "01SGXS8LGC229OPR1024", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,042 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,084 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "5W6F2S8R10392EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,108 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,149 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1024 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "DW589299YG661OPR1024", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,176 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,193 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "PDMBZTHWSY409EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,215 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,232 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "DCTPKRMMVX441EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,257 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,297 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "085T2SHL5J471EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,322 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,346 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR9275 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "TT2NHB0LVQ489OPR9275", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,369 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,390 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "4C08BP435H422EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,414 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,451 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "570J64HT77381EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,478 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,516 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR9275 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "BXQQHYGY1N489OPR9275", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,539 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,583 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "Q93P27YFY6895EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,605 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,634 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "SYLNYVSRYN185EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,657 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,685 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR9275 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "DRM402QFPZ434OPR9275", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,712 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,753 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR4534 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "DSYMXS3X12527OPR4534", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,774 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,791 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "YFSFKVY36H804EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,815 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,856 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR1024 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "R9QCZRXJX8159OPR1024", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,877 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,919 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "DRY3W245Y3225EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,942 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:29,966 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR9275 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "K8YMWN99XK975OPR9275", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:29,994 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,035 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "RX60623TNY241EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,059 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,089 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "EWSSVCAD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "HMF89VCYND671EWSSVCA", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,121 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,142 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR9275 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "8HWYNR5391528OPR9275", "effectiveDate": "2019-07-01", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,165 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,214 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "ESCLXCDD" } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "1K9KHM37W0541ESCLXCD", "effectiveDate": "2019-07-08", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,239 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,255 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR5727 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "1WTLRV8NX3946OPR5727", "effectiveDate": "2019-07-12", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,280 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,302 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR5727 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "WNJ0TXWWPL219OPR5727", "effectiveDate": "2019-07-12", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,322 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,360 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"event": {"headers": [ {"key": "SourceSystem", "value": "ExceedClient" }, {"key": "UserId", "value": "OPR5727 " } ], "body": { "clientActivityEvent": { "actionCode": "ADD", "clientId": "YP7MZF56TF126OPR5727", "effectiveDate": "2019-07-12", "expirationDate": "9999-12-31" } } } }
+2019-07-19 12:37:30,385 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,405 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: <test>Hello! This is XML.</test>
+2019-07-19 12:37:30,428 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:30,468 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: <test>Hello! This is XML.</test>
+2019-07-19 12:37:30,505 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:37:45,252 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...
+2019-07-19 12:37:45,263 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:38:18,537 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...ddfdfdf
+2019-07-19 12:38:18,548 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 12:39:13,182 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:42:36,867 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 12:45:33,389 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 13:03:32,618 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 13:05:43,729 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Test message from Senthil
+2019-07-19 13:05:43,756 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 13:06:58,896 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "hi",
+    "lastName": "aaron",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-19 13:06:58,948 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 13:17:52,669 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Test from Aaron
+2019-07-19 13:17:52,679 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 13:30:54,704 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-19 13:32:24,486 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...
+2019-07-19 13:32:24,571 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 13:35:12,477 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...
+2019-07-19 13:35:12,490 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-19 13:46:30,663 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:07:04,512 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:07:42,394 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:08:04,663 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:08:05,478 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {"source":"IFBI Website","leadSourceCategory":"ContactUs","firstName":"jane","lastName":"doe","contactMethod":"Email","phone":null,"email":"asdf@asdfa.kasdf","formSourceSubCategory":"Claims Service","policyNumber":"12315123","comments":"Hello","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":null,"policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-22 08:08:05,505 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:09:37,523 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:12:04,897 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:13:06,446 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:13:24,624 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:14:11,687 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:14:15,979 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "hi",
+    "lastName": "aaron",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 08:14:16,032 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:14:16,078 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...
+2019-07-22 08:14:16,102 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:14:16,145 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {TEST}
+2019-07-22 08:14:16,169 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:14:16,205 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: Enter some text here for the message body...
+2019-07-22 08:14:16,232 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:14:52,067 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Received Message: {
+"source": "IFBI Website",
+"leadSourceCategory": "ContactUs",
+"firstName": "hi",
+"lastName": "aaron",
+"contactMethod": "Email",
+"phone": null,
+"email": "asdf@adsfaka.dkfasdf",
+"formSourceSubCategory": "Other",
+"policyNumber": null,
+"comments": "alsdjflkasd flaksdjf asdf",
+"policyType": null,
+"agentFName": null,
+"agentLName": null,
+"agentEmail": null,
+"agentACID": null,
+"street": null,
+"apt": null,
+"city": null,
+"state": null,
+"zip": null,
+"policyStreet": null,
+"policyApt": null,
+"policyCity": null,
+"policyState": null,
+"policyZip": null,
+"eventDate": null,
+"eventTime": null,
+"eventAmPm": null
+}
+2019-07-22 08:14:52,090 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:35:48,401 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:36:04,994 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 08:36:29,958 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Converting Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "hi",
+    "lastName": "aaron",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaronvogt@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 08:36:29,972 [1] DEBUG IFB.CRM.Services.Lead.Service1 - User Email: aaronvogt@example.com
+2019-07-22 08:36:29,998 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 08:47:45,487 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 09:04:46,702 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 09:05:21,656 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Converting Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "hi",
+    "lastName": "aaron",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaronvogt1@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 09:05:21,670 [1] DEBUG IFB.CRM.Services.Lead.Service1 - User Email: aaronvogt1@example.com
+2019-07-22 09:05:21,696 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 09:05:32,099 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Converting Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "hi",
+    "lastName": "aaron",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaronvogt2@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 09:05:32,099 [1] DEBUG IFB.CRM.Services.Lead.Service1 - User Email: aaronvogt2@example.com
+2019-07-22 09:05:32,111 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 10:07:55,948 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:09:30,009 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:09:30,210 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:09:30,507 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Connected to QUEU
+2019-07-22 10:10:24,214 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:10:24,442 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:616166
+2019-07-22 10:17:13,091 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:17:13,352 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:616166
+2019-07-22 10:17:17,253 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Unable to connect to ActiveMQ endpoint: tcp://ap-msgbkr-dev:616166
+2019-07-22 10:17:21,241 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Reason: Could not connect to broker URL: failover:(tcp://ap-msgbkr-dev:616166). Reason: Invalid URI: Invalid port specified.
+2019-07-22 10:17:28,391 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Inner Exception: System.UriFormatException: Invalid URI: Invalid port specified.
+   at System.Uri.CreateThis(String uri, Boolean dontEscape, UriKind uriKind)
+   at System.Uri..ctor(String uriString)
+   at Apache.NMS.Util.URISupport.ParseComposite(Uri uri, CompositeData rc, String ssp) in c:\dev\NMS\src\main\csharp\Util\URISupport.cs:line 531
+   at Apache.NMS.Util.URISupport.ParseComposite(Uri uri) in c:\dev\NMS\src\main\csharp\Util\URISupport.cs:line 485
+   at Apache.NMS.ActiveMQ.Transport.Failover.FailoverTransportFactory.doConnect(Uri location) in c:\dev\NMS.ActiveMQ\src\main\csharp\Transport\Failover\FailoverTransportFactory.cs:line 29
+   at Apache.NMS.ActiveMQ.Transport.Failover.FailoverTransportFactory.CreateTransport(Uri location) in c:\dev\NMS.ActiveMQ\src\main\csharp\Transport\Failover\FailoverTransportFactory.cs:line 42
+   at Apache.NMS.ActiveMQ.ConnectionFactory.CreateActiveMQConnection(String userName, String password) in c:\dev\NMS.ActiveMQ\src\main\csharp\ConnectionFactory.cs:line 131
+2019-07-22 10:18:59,940 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:19:00,166 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:19:00,471 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Connected to QUEU
+2019-07-22 10:24:49,529 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:24:49,770 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:24:50,087 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Using destination: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:24:50,178 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Unable to connect to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:24:50,178 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Reason: User anonymous is not authorized to read from: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:24:50,178 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Inner Exception: 
+2019-07-22 10:25:44,421 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:25:44,642 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:25:44,998 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Using destination: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:25:45,040 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Unable to connect to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:25:45,040 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Reason: User anonymous is not authorized to read from: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:25:45,040 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Inner Exception: 
+2019-07-22 10:27:31,880 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:27:32,062 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:27:32,352 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Using destination: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:28:31,316 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:29:28,551 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:29:28,779 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:29:29,111 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Unable to connect to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:29:29,111 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Reason: You cannot change the ClientId once the Connection is connected
+2019-07-22 10:29:29,111 [1] ERROR IFB.CRM.Services.Lead.subscriptions.Subscription - Inner Exception: 
+2019-07-22 10:30:13,587 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:30:13,769 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:30:14,033 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Using destination: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:31:17,874 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:31:18,073 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Setting up connection to ActiveMQ endpoint: tcp://ap-msgbkr-dev:61616
+2019-07-22 10:31:18,389 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Using destination: queue://vConsumer.CRM.VirtualTopic.ifbi.newlead
+2019-07-22 10:34:40,245 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:34:40,802 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Converting Message: Enter some text here for the message body...
+2019-07-22 10:35:14,293 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:35:32,229 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Converting Message: {
+"source": "IFBI Website",
+"leadSourceCategory": "ContactUs",
+"firstName": "hi",
+"lastName": "aaron",
+"contactMethod": "Email",
+"phone": null,
+"email": "asdf@adsfaka.dkfasdf",
+"formSourceSubCategory": "Other",
+"policyNumber": null,
+"comments": "alsdjflkasd flaksdjf asdf",
+"policyType": null,
+"agentFName": null,
+"agentLName": null,
+"agentEmail": null,
+"agentACID": null,
+"street": null,
+"apt": null,
+"city": null,
+"state": null,
+"zip": null,
+"policyStreet": null,
+"policyApt": null,
+"policyCity": null,
+"policyState": null,
+"policyZip": null,
+"eventDate": null,
+"eventTime": null,
+"eventAmPm": null
+}
+2019-07-22 10:35:32,243 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - User Email: asdf@adsfaka.dkfasdf
+2019-07-22 10:35:32,271 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 10:37:10,159 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:38:06,974 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Converting Message: {
+"source": "IFBI Website",
+"leadSourceCategory": "ContactUs",
+"firstName": "hi",
+"lastName": "aaron",
+"contactMethod": "Email",
+"phone": null,
+"email": "asdf@adsfaka.dkfasdf",
+"formSourceSubCategory": "Other",
+"policyNumber": null,
+"comments": "alsdjflkasd flaksdjf asdf",
+"policyType": null,
+"agentFName": null,
+"agentLName": null,
+"agentEmail": null,
+"agentACID": null,
+"street": null,
+"apt": null,
+"city": null,
+"state": null,
+"zip": null,
+"policyStreet": null,
+"policyApt": null,
+"policyCity": null,
+"policyState": null,
+"policyZip": null,
+"eventDate": null,
+"eventTime": null,
+"eventAmPm": null
+}
+2019-07-22 10:38:06,989 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - User Email: asdf@adsfaka.dkfasdf
+2019-07-22 10:38:07,017 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 10:38:29,485 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Converting Message: {
+"source": "IFBI Website",
+"leadSourceCategory": "ContactUs",
+"firstName": "hi",
+"lastName": "aaron",
+"contactMethod": "Email",
+"phone": null,
+"email": "aaron@vogt.com",
+"formSourceSubCategory": "Other",
+"policyNumber": null,
+"comments": "alsdjflkasd flaksdjf asdf",
+"policyType": null,
+"agentFName": null,
+"agentLName": null,
+"agentEmail": null,
+"agentACID": null,
+"street": null,
+"apt": null,
+"city": null,
+"state": null,
+"zip": null,
+"policyStreet": null,
+"policyApt": null,
+"policyCity": null,
+"policyState": null,
+"policyZip": null,
+"eventDate": null,
+"eventTime": null,
+"eventAmPm": null
+}
+2019-07-22 10:38:29,485 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - User Email: aaron@vogt.com
+2019-07-22 10:38:29,496 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 10:44:10,161 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:44:55,724 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Converting Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 10:44:55,738 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - User Email: aaron@adsfaka.dkfasdf
+2019-07-22 10:44:55,768 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 10:45:13,912 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Converting Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron123@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 10:45:13,912 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - User Email: aaron123@adsfaka.dkfasdf
+2019-07-22 10:45:13,975 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 10:49:49,827 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 10:50:25,697 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializatin Environment Configuration
+2019-07-22 11:03:11,315 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 11:03:41,353 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron123456@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 11:03:41,368 [1] DEBUG IFB.CRM.Services.Lead.handlers.NewLeadHandler - EMAIL: aaron123456@adsfaka.dkfasdf
+2019-07-22 11:03:41,393 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 11:11:19,099 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 11:11:32,165 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron12121231233@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 11:11:32,180 [1] DEBUG IFB.CRM.Services.Lead.handlers.NewLeadHandler - EMAIL: aaron12121231233@adsfaka.dkfasdf
+2019-07-22 11:11:32,210 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 11:16:50,557 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 11:17:29,067 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron9999999999999@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 11:17:29,080 [1] DEBUG IFB.CRM.Services.Lead.handlers.NewLeadHandler - EMAIL: aaron9999999999999@adsfaka.dkfasdf
+2019-07-22 11:17:29,106 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 12:42:15,020 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 12:42:38,545 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron12121231233@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 12:42:38,558 [1] DEBUG IFB.CRM.Services.Lead.handlers.NewLeadHandler - EMAIL: aaron12121231233@adsfaka.dkfasdf
+2019-07-22 12:42:38,583 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 12:42:55,594 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: Enter some text here for the message body...
+2019-07-22 12:42:55,616 [1] ERROR IFB.CRM.Services.Lead.handlers.NewLeadHandler - Invalid Contact Us Message: Enter some text here for the message body...
+2019-07-22 12:42:55,617 [1] ERROR IFB.CRM.Services.Lead.handlers.NewLeadHandler - Message Unexpected character encountered while parsing value: E. Path '', line 0, position 0.
+2019-07-22 12:42:55,617 [1] ERROR IFB.CRM.Services.Lead.handlers.NewLeadHandler - Inner Exception: 
+2019-07-22 12:42:55,627 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 12:43:25,971 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron99999@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 12:43:25,971 [1] DEBUG IFB.CRM.Services.Lead.handlers.NewLeadHandler - EMAIL: aaron99999@adsfaka.dkfasdf
+2019-07-22 12:43:25,981 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 12:45:33,335 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 12:45:53,454 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: contactUsListener
+2019-07-22 12:45:53,485 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Invalid Contact Us Message: contactUsListener
+2019-07-22 12:45:53,485 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Message Unexpected character encountered while parsing value: c. Path '', line 0, position 0.
+2019-07-22 12:45:53,485 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Inner Exception: 
+2019-07-22 12:45:53,511 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 12:46:19,130 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "aaron99999@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 12:46:19,138 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: aaron99999@adsfaka.dkfasdf
+2019-07-22 12:46:19,149 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 13:48:28,657 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 13:49:04,128 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 13:49:04,141 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: asdf@adsfaka.dkfasdf
+2019-07-22 13:49:04,168 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 13:59:30,126 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 14:02:23,480 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 14:05:38,314 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 14:06:20,919 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "TylerVogt@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 14:06:20,935 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: TylerVogt@adsfaka.dkfasdf
+2019-07-22 14:06:20,935 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy
+2019-07-22 14:06:20,964 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 14:06:54,981 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 14:07:49,754 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 14:07:49,766 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: asdf@adsfaka.dkfasdf
+2019-07-22 14:07:49,766 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy
+2019-07-22 14:07:49,797 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 14:15:12,831 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 14:16:00,098 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 14:16:00,113 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: asdf@adsfaka.dkfasdf
+2019-07-22 14:16:00,113 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy
+2019-07-22 14:16:00,144 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 15:08:03,791 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 15:08:41,677 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: ContactUsModel
+2019-07-22 15:08:41,775 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Invalid Contact Us Message: ContactUsModel
+2019-07-22 15:08:41,775 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Message Unexpected character encountered while parsing value: C. Path '', line 0, position 0.
+2019-07-22 15:08:41,775 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Inner Exception: 
+2019-07-22 15:08:41,809 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 15:09:26,466 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:09:26,481 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Invalid Contact Us Message: Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:09:26,481 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Message Unexpected character encountered while parsing value: R. Path '', line 0, position 0.
+2019-07-22 15:09:26,481 [1] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Inner Exception: 
+2019-07-22 15:09:26,493 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 15:09:47,999 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:09:48,007 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: asdf@adsfaka.dkfasdf
+2019-07-22 15:09:48,008 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy
+2019-07-22 15:09:48,017 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 15:17:13,629 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 15:17:54,551 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received Message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:17:54,569 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - EMAIL: asdf@adsfaka.dkfasdf
+2019-07-22 15:17:54,569 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy
+2019-07-22 15:17:54,668 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 15:35:58,320 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 15:36:23,795 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:42:28,435 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 15:42:50,525 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:51:48,333 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 15:52:17,690 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:52:18,645 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - IFB.CRM.Services.Lead.models.amq.ContactUs
+2019-07-22 15:52:18,645 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - asdf@adsfaka.dkfasdf
+2019-07-22 15:52:18,671 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-22 15:52:46,054 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 15:52:46,177 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - IFB.CRM.Services.Lead.models.amq.ContactUs
+2019-07-22 15:59:42,079 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-22 16:00:02,881 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-22 16:00:03,611 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - asdf@adsfaka.dkfasdf
+2019-07-22 16:00:03,632 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 08:01:32,497 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 08:02:54,961 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 08:03:00,628 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 08:21:15,522 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 08:21:21,626 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 08:21:22,305 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - emailaddress1
+2019-07-23 08:21:22,333 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 08:22:09,907 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 08:22:14,718 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 08:22:15,424 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - asdf@adsfaka.dkfasdf
+2019-07-23 08:22:15,453 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 08:47:53,189 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 08:48:43,495 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 08:49:26,322 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 08:49:40,666 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 08:51:46,452 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 08:51:55,424 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 08:51:56,180 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Unable to create lead from contact model IFB.CRM.Services.Lead.models.amq.ContactUs
+2019-07-23 08:51:56,180 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Message: Incorrect attribute value type System.String
+2019-07-23 08:51:56,180 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Inner Exception: 
+2019-07-23 08:51:56,207 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 09:00:40,658 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:00:56,976 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:02:27,824 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:02:36,295 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:03:48,765 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:03:49,310 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "Seminar",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:06:52,182 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:06:52,743 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:07:25,281 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:08:18,804 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:08:19,540 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Unable to create lead from contact model IFB.CRM.Services.Lead.models.amq.ContactUs
+2019-07-23 09:08:19,540 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Message: The formatter threw an exception while trying to deserialize the message: There was an error while trying to deserialize parameter http://schemas.microsoft.com/xrm/2011/Contracts/Services:entity. The InnerException message was 'Error in line 1 position 2702. Element 'http://schemas.datacontract.org/2004/07/System.Collections.Generic:value' contains data from a type that maps to the name 'IFB.CRM.Services.Lead.models.crm.latebound:LeadSource_OptionSet'. The deserializer has no knowledge of any type that maps to this name. Consider changing the implementation of the ResolveName method on your DataContractResolver to return a non-null value for name 'LeadSource_OptionSet' and namespace 'IFB.CRM.Services.Lead.models.crm.latebound'.'.  Please see InnerException for more details.
+2019-07-23 09:08:19,540 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Inner Exception: 
+2019-07-23 09:08:19,561 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 09:08:35,849 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:09:10,242 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:13:23,828 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:14:04,127 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:15:18,986 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:15:35,265 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:15:35,976 [1] DEBUG IFB.CRM.Services.Lead.dao.LeadDataService - IFBIWebSite
+2019-07-23 09:18:51,841 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:19:06,619 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:22:58,086 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:24:08,975 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:24:09,797 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Unable to create lead from contact model IFB.CRM.Services.Lead.models.amq.ContactUs
+2019-07-23 09:24:09,797 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Message: Incorrect attribute value type System.Int32
+2019-07-23 09:24:09,797 [1] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Inner Exception: 
+2019-07-23 09:24:09,820 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 09:28:22,245 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:28:51,637 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:28:54,774 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: adfc4ccf-4dad-e911-815a-00155dd9fb0c
+2019-07-23 09:28:54,816 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 09:42:43,296 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:43:52,083 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "Aaron",
+    "lastName": "Vogt",
+    "contactMethod": "Email",
+    "phone": "317-508-6888",
+    "email": "aaron@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": "1565488",
+    "comments": "Testing comments for Lead Creation",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:43:57,087 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 7e750ce8-4fad-e911-815a-00155dd9fb0c
+2019-07-23 09:43:57,113 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 09:47:39,244 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 09:49:04,194 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "Aaron",
+    "lastName": "Vogt",
+    "contactMethod": "Email",
+    "phone": "317-508-6888",
+    "email": "aaron9845454@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": "7954548",
+    "comments": "Testing comments for Lead Creation",
+    "policyType": "APV",
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": "123 Aaron Street",
+    "apt": null,
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46888",
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:49:09,268 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 44030da2-50ad-e911-815a-00155dd9fb0c
+2019-07-23 09:49:09,292 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 09:50:52,628 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "Aaron",
+    "lastName": "Vogt",
+    "contactMethod": "Phone",
+    "phone": "317-508-6888",
+    "email": "aaron9845454@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": "7954548",
+    "comments": "Testing comments for Lead Creation",
+    "policyType": "APV",
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": "123 Aaron Street",
+    "apt": null,
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46888",
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 09:50:53,289 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: c23159e2-50ad-e911-815a-00155dd9fb0c
+2019-07-23 09:50:53,306 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 10:02:33,116 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 10:03:30,114 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "Aaron",
+    "lastName": "Vogt",
+    "contactMethod": "Phone",
+    "phone": "317-508-6888",
+    "email": "aarondfdfdf9845454@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": "7954548",
+    "comments": "Testing comments for Lead Creation",
+    "policyType": "APV",
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": "123 Aaron Street",
+    "apt": null,
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46888",
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 10:03:30,896 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 87bd29a6-52ad-e911-815a-00155dd9fb0c
+2019-07-23 10:03:30,923 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 10:07:41,580 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 10:17:28,014 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBIWebSite",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "Tyler",
+    "lastName": "Super",
+    "contactMethod": "Phone",
+    "phone": "987-888-6888",
+    "email": "whatisthisemail@example.com",
+    "formSourceSubCategory": "Other",
+    "policyNumber": "7954548",
+    "comments": "Testing comments for Lead Creation",
+    "policyType": "APV",
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": "456 Aaron Street",
+    "apt": null,
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "48551",
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 10:17:30,704 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 42ae9b99-54ad-e911-815a-00155dd9fb0c
+2019-07-23 10:17:30,732 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 10:50:39,993 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 13:35:02,918 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 13:35:03,798 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Alex","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: PartnerChildren\r\nNumber of Children: 2\r\nAge of Youngest Child: 8\r\nAmount to Save for Eduction: 150000\r\nAnnual Income: 70000\r\nOwns Home: True\r\nRemaining Mortgage: 140000\r\nDebt: SitefinityWebApp.Mvc.Models.LifeCalculator.DebtDetails\r\nCurrent Life Insurance: 600000"}
+2019-07-23 13:35:09,917 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: c5c09c35-70ad-e911-815a-00155dd9fb0c
+2019-07-23 13:35:09,984 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 13:35:10,010 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Alex","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: PartnerChildren\r\nNumber of Children: 2\r\nAge of Youngest Child: 8\r\nAmount to Save for Eduction: 150000\r\nAnnual Income: 70000\r\nOwns Home: True\r\nRemaining Mortgage: 140000\r\nCurrent Life Insurance: 600000"}
+2019-07-23 13:35:10,210 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: c8c09c35-70ad-e911-815a-00155dd9fb0c
+2019-07-23 13:35:10,222 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 13:35:10,247 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Alex","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: PartnerChildren\r\nNumber of Children: 2\r\nAge of Youngest Child: 8\r\nAmount to Save for Eduction: 150000\r\nAnnual Income: 70000\r\nOwns Home: True\r\nRemaining Mortgage: 140000\r\nCurrent Life Insurance: 600000"}
+2019-07-23 13:35:10,405 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: cbc09c35-70ad-e911-815a-00155dd9fb0c
+2019-07-23 13:35:10,419 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 13:52:31,364 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 13:52:32,050 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {
+    "source": "IFBI Website",
+    "leadSourceCategory": "ContactUs",
+    "firstName": "test",
+    "lastName": "person",
+    "contactMethod": "Email",
+    "phone": null,
+    "email": "asdf@adsfaka.dkfasdf",
+    "formSourceSubCategory": "Other",
+    "policyNumber": null,
+    "comments": "alsdjflkasd flaksdjf asdf",
+    "policyType": null,
+    "agentFName": null,
+    "agentLName": null,
+    "agentEmail": null,
+    "agentACID": null,
+    "street": null,
+    "apt": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "policyStreet": null,
+    "policyApt": null,
+    "policyCity": null,
+    "policyState": null,
+    "policyZip": null,
+    "eventDate": null,
+    "eventTime": null,
+    "eventAmPm": null
+}
+2019-07-23 13:52:34,108 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 2ae817a5-72ad-e911-815a-00155dd9fb0c
+2019-07-23 13:52:34,139 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:06:28,646 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 14:06:29,302 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Alex","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: PartnerChildren\r\nNumber of Children: 2\r\nAge of Youngest Child: 8\r\nAmount to Save for Eduction: 0\r\nAnnual Income: 70000\r\nOwns Home: True\r\nRemaining Mortgage: 140000\r\nCurrent Life Insurance: 600000"}
+2019-07-23 14:06:30,165 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 5aab1198-74ad-e911-815a-00155dd9fb0c
+2019-07-23 14:06:30,196 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:06:30,230 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Alex","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: PartnerChildren\r\nNumber of Children: 2\r\nAge of Youngest Child: 8\r\nAmount to Save for Eduction: 0\r\nAnnual Income: 70000\r\nOwns Home: True\r\nRemaining Mortgage: 140000\r\nCurrent Life Insurance: 600000"}
+2019-07-23 14:06:30,410 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 5dab1198-74ad-e911-815a-00155dd9fb0c
+2019-07-23 14:06:30,420 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:22:57,417 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 14:22:58,099 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Anthony","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: Solo\r\nAnnual Income: 85000\r\nOwns Home: True\r\nRemaining Mortgage: 120000\r\nCurrent Life Insurance: 45000"}
+2019-07-23 14:22:58,984 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 689b45e2-76ad-e911-815a-00155dd9fb0c
+2019-07-23 14:22:59,010 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:36:21,377 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 14:42:06,358 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 14:42:06,932 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBI Website","leadSourceCategory":"ContactUs","firstName":"Alex","lastName":"Griffith","contactMethod":"Email","phone":null,"email":"asdf@asdf.asdf","formSourceSubCategory":"Other","policyNumber":"12345","comments":"asdlfkja dflkj asdfasdfasdf adf asdfgf sdf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-23 14:42:11,549 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: ebb23292-79ad-e911-815a-00155dd9fb0c
+2019-07-23 14:42:11,592 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:42:11,637 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBI Website","leadSourceCategory":"ContactUs","firstName":"Alex","lastName":"Griffith","contactMethod":"Email","phone":null,"email":"adsf@asdf.asdf","formSourceSubCategory":"Other","policyNumber":null,"comments":"adsklfjas dfhaosidfh oausdf hasdf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"45612","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-23 14:42:12,862 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: f2b23292-79ad-e911-815a-00155dd9fb0c
+2019-07-23 14:42:12,891 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:42:52,949 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBI Website","leadSourceCategory":"ContactUs","firstName":"Hi","lastName":"Aaron","contactMethod":"Email","phone":null,"email":"asdf@asdf.asdf","formSourceSubCategory":"Other","policyNumber":null,"comments":"asdflk alskdfj aslkdfjasdfa","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"12345","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-23 14:42:55,147 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 85ac4cad-79ad-e911-815a-00155dd9fb0c
+2019-07-23 14:42:55,176 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:43:22,882 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBI Website","leadSourceCategory":"ContactUs","firstName":"Aaron","lastName":"Vogt","contactMethod":"Phone","phone":"(317) 508-9999","email":null,"formSourceSubCategory":"Claims Service","policyNumber":"65565465","comments":"test","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"45684","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-23 14:43:24,271 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 28db1fbf-79ad-e911-815a-00155dd9fb0c
+2019-07-23 14:43:24,284 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-23 14:52:55,192 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-23 14:52:55,798 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":null,"leadSourceCategory":"Life Needs Assessment","firstName":"Alex","lastName":null,"contactMethod":null,"phone":null,"email":"alex.griffith@infarmbureau.com","formSourceSubCategory":null,"policyNumber":null,"comments":null,"policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46123","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":"Dependents: PartnerChildren\r\nNumber of Children: 2\r\nAge of Youngest Child: 8\r\nAmount to Save for Eduction: 150000\r\nAnnual Income: 70000\r\nOwns Home: True\r\nRemaining Mortgage: 140000\r\nCurrent Life Insurance: 600000"}
+2019-07-23 14:52:56,600 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 52d5e514-7bad-e911-815a-00155dd9fb0c
+2019-07-23 14:52:56,623 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-24 08:55:07,195 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 08:55:49,388 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"Testgin","lastName":"Testing","contactMethod":"Phone","phone":"(317) 508-9765","email":null,"formSourceSubCategory":"Farm Bureau Quote","policyNumber":"6984654","comments":"tadfadfasfd","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"89746","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-24 08:55:59,551 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 2c98c75f-12ae-e911-815a-00155dd9fb0c
+2019-07-24 08:55:59,629 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-24 10:42:59,820 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 12:31:40,298 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 13:43:23,195 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 13:43:23,221 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 13:43:23,221 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 13:43:23,400 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 13:43:23,400 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 13:43:23,408 [1] DEBUG IFB.CRM.Services.Lead.Service1 - HERE
+2019-07-24 13:43:23,414 [1] DEBUG IFB.CRM.Services.Lead.Service1 - HERE
+2019-07-24 13:43:23,745 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - BEFORE START
+2019-07-24 13:43:23,746 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - After START
+2019-07-24 13:43:23,757 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - CRM Client
+2019-07-24 13:44:07,951 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - CRM Client
+2019-07-24 13:44:07,982 [1] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"Hoosier","lastName":"Noob","contactMethod":"Phone","phone":"(555) 555-5555","email":null,"formSourceSubCategory":"Claims Service","policyNumber":"6565","comments":"ad","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"54645","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-24 13:44:19,948 [1] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 364a37a4-3aae-e911-815a-00155dd9fb0c
+2019-07-24 13:44:20,040 [1] DEBUG IFB.CRM.Services.Lead.Service1 - Successfully read message
+2019-07-24 13:44:20,079 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - BEFORE START
+2019-07-24 13:44:20,080 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - After START
+2019-07-24 13:44:20,082 [1] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - CRM Client
+2019-07-24 15:35:44,083 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 15:35:44,105 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 15:35:44,105 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 15:35:44,275 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 15:35:44,275 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 20:43:46,908 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 20:43:46,940 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 20:43:46,940 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:43:47,118 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:43:47,118 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 20:46:06,138 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 20:46:06,158 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 20:46:06,158 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:46:06,337 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:46:06,337 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 20:47:25,859 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 20:47:25,878 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 20:47:25,878 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:47:26,028 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:47:26,028 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 20:48:49,161 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 20:48:49,182 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 20:48:49,182 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:48:49,335 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:48:49,335 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 20:53:30,022 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-24 20:53:30,040 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - dev
+2019-07-24 20:53:30,040 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Looking for: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:53:30,198 [1] DEBUG IFB.CRM.Services.Lead.Bootstrap - Found: C:\ifbidev\source\CRM Misc Git\Lead Topic Listener\bin\Debug\..\..\config\DEV.json
+2019-07-24 20:53:30,198 [1] DEBUG IFB.CRM.Services.Lead.Program - Completed Environment Configuration
+2019-07-24 20:53:56,269 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfaa","lastName":"weaef","contactMethod":"Phone","phone":"(665) 465-4654","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"564654","comments":"56456456","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"564654","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-24 20:53:59,044 [4] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 6372ffae-76ae-e911-815a-00155dd9fb0c
+2019-07-24 20:53:59,104 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-24 21:23:53,111 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-25 10:28:20,256 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-25 10:29:41,851 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBIWebSite","leadSourceCategory":"ContactAgent","firstName":"ty","lastName":"ty","contactMethod":"Phone","phone":"(654) 654-5646","email":null,"formSourceSubCategory":"Auto","policyNumber":"65465456","comments":"dadfadf","policyType":"Auto","agentFName":"Jordan","agentLName":"Smith","agentEmail":null,"agentACID":"A46M4","street":null,"apt":null,"city":null,"state":null,"zip":"65465-4564","policyStreet":"54564 test street","policyApt":"A","policyCity":"Indianapolis","policyState":"IN","policyZip":"65465-4564","eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-25 10:32:37,074 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-25 10:33:07,016 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"Aaron","lastName":"VOgt","contactMethod":"Email","phone":null,"email":"aspin@gmail.example.com","formSourceSubCategory":"Policy Service","policyNumber":"456456","comments":"564654","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"54654","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-25 10:33:07,200 [4] ERROR IFB.CRM.Services.Lead.Listener - Object reference not set to an instance of an object.
+2019-07-25 10:36:21,724 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-25 10:36:38,106 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"test","lastName":"test","contactMethod":"Phone","phone":"(323) 132-1321","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"54564","comments":"654564","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"56465-4564","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null,"additionalDetails":null}
+2019-07-31 20:15:43,879 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 20:15:44,618 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"Brittany","lastName":"Test","contactMethod":"Phone","phone":"(332) 222-2222","email":null,"formSourceSubCategory":"Business","policyNumber":null,"comments":"Quote Request","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"44443-3444","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:15:46,437 [4] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: e9f62e81-f1b3-e911-815a-00155dd9fb0c
+2019-07-31 20:15:46,552 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-31 20:15:46,574 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"George","lastName":"george","contactMethod":"Phone","phone":"(564) 654-5646","email":null,"formSourceSubCategory":"Other","policyNumber":"564654","comments":"6","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:15:47,013 [4] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: f0f62e81-f1b3-e911-815a-00155dd9fb0c
+2019-07-31 20:15:47,026 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-31 20:23:09,241 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 20:24:39,176 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received ActiveMQTextMessage[ commandId = 4, responseRequired = True, ProducerId = ID:AP-KARAFBG-QA-59109-1564167045946-9:478:1:1, Destination = topic://VirtualTopic.ifbi.newlead, TransactionId = , OriginalDestination = , MessageId = ID:AP-KARAFBG-QA-59109-1564167045946-9:478:1:1:1:17558, OriginalTransactionId = , GroupID = , GroupSequence = 0, CorrelationId = , Persistent = True, Expiration = 0, Priority = 4, ReplyTo = , Timestamp = 1564619079087, Type = , Content = , MarshalledProperties = System.Byte[], DataStructure = , TargetConsumerId = , Compressed = False, RedeliveryCounter = 0, BrokerPath = , Arrival = 0, UserID = , RecievedByDFBridge = False, Droppable = False, Cluster = , BrokerInTime = 1564619079082, BrokerOutTime = 1564619079099, JMSXGroupFirstForConsumer = False ] Text = {"additionalDetails":null,"source":"IFBIWebSi...tAmPm":null}
+2019-07-31 20:24:56,132 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(465) 465-4564","email":null,"formSourceSubCategory":"Other","policyNumber":"54654564","comments":"adadsfasdf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:27:09,138 [4] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 9641d912-f3b3-e911-815a-00155dd9fb0c
+2019-07-31 20:27:26,781 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-31 20:33:08,076 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 20:34:05,165 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 20:34:15,676 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received ActiveMQTextMessage[ commandId = 4, responseRequired = True, ProducerId = ID:AP-KARAFAG-QA-49774-1564166670646-5:487:1:1, Destination = topic://VirtualTopic.ifbi.newlead, TransactionId = , OriginalDestination = , MessageId = ID:AP-KARAFAG-QA-49774-1564166670646-5:487:1:1:1:17864, OriginalTransactionId = , GroupID = , GroupSequence = 0, CorrelationId = , Persistent = True, Expiration = 0, Priority = 4, ReplyTo = , Timestamp = 1564619655627, Type = , Content = , MarshalledProperties = System.Byte[], DataStructure = , TargetConsumerId = , Compressed = False, RedeliveryCounter = 0, BrokerPath = , Arrival = 0, UserID = , RecievedByDFBridge = False, Droppable = False, Cluster = , BrokerInTime = 1564619655613, BrokerOutTime = 1564619655645, JMSXGroupFirstForConsumer = False ] Text = {"additionalDetails":null,"source":"IFBIWebSi...tAmPm":null}
+2019-07-31 20:35:03,113 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(564) 654-5646","email":null,"formSourceSubCategory":"Other","policyNumber":"56464654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:35:23,898 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-31 20:36:51,938 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 20:36:52,512 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(564) 654-6546","email":null,"formSourceSubCategory":"Other","policyNumber":"654654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:37:19,723 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(564) 654-6546","email":null,"formSourceSubCategory":"Other","policyNumber":"654654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:53:34,086 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 20:54:28,316 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(654) 654-6546","email":null,"formSourceSubCategory":"Other","policyNumber":"56465654","comments":"adadffd","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:54:36,073 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(654) 654-6546","email":null,"formSourceSubCategory":"Other","policyNumber":"56465654","comments":"adadffd","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:57:34,060 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-31 20:58:02,385 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(564) 654-5646","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"56465465","comments":"adfasdf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:58:04,709 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"george","lastName":"george","contactMethod":"Phone","phone":"(564) 654-5646","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"56465465","comments":"adfasdf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 20:58:13,983 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-07-31 21:01:11,395 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"aaron ","lastName":"vogtggg","contactMethod":"Phone","phone":"(546) 546-5465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"4654654654","comments":"asdfasf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 21:01:17,807 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"aaron ","lastName":"vogtggg","contactMethod":"Phone","phone":"(546) 546-5465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"4654654654","comments":"asdfasf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 21:04:41,735 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 21:05:45,271 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfasdf","lastName":"adfas","contactMethod":"Phone","phone":"(464) 654-6545","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"54654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 21:05:50,746 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfasdf","lastName":"adfas","contactMethod":"Phone","phone":"(464) 654-6545","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"54654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 21:14:39,267 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-07-31 21:14:50,720 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"ada","lastName":"adfasf","contactMethod":"Phone","phone":"(545) 645-6465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"6546546","comments":"adfasf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 21:14:55,885 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"ada","lastName":"adfasf","contactMethod":"Phone","phone":"(545) 645-6465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"6546546","comments":"adfasf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46250","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-07-31 21:15:47,431 [4] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 98c620d6-f9b3-e911-815a-00155dd9fb0c
+2019-07-31 21:16:04,493 [4] DEBUG IFB.CRM.Services.Lead.Listener - Successfully read message
+2019-08-05 10:32:37,890 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 10:33:09,631 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"jj","lastName":"jj","contactMethod":"Phone","phone":"(564) 654-6546","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"5465465","comments":"dfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:33:14,755 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"jj","lastName":"jj","contactMethod":"Phone","phone":"(564) 654-6546","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"5465465","comments":"dfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:34:00,572 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 10:34:31,594 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfa","lastName":"a","contactMethod":"Phone","phone":"(546) 546-5465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"456454","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:34:42,388 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfa","lastName":"a","contactMethod":"Phone","phone":"(546) 546-5465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"456454","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:40:28,938 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 10:41:12,420 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfadfadf","lastName":"kllkjlkjklj","contactMethod":"Phone","phone":"(545) 646-5465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"4654654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:41:17,079 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adfadfadf","lastName":"kllkjlkjklj","contactMethod":"Phone","phone":"(545) 646-5465","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"4654654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:44:36,776 [4] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Contact With Id = 00000000-0000-0000-0000-000000000000 Does Not Exist
+2019-08-05 10:44:36,776 [4] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - Contact With Id = 00000000-0000-0000-0000-000000000000 Does Not Exist
+2019-08-05 10:44:36,814 [4] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - 
+2019-08-05 10:44:36,814 [4] ERROR IFB.CRM.Services.Lead.dao.LeadDataService - 
+Server stack trace: 
+   at System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   at System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   at System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   at System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at Microsoft.Xrm.Sdk.IOrganizationService.Create(Entity entity)
+   at Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy.CreateCore(Entity entity)
+   at Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy.Create(Entity entity)
+   at IFB.CRM.Services.Lead.dao.LeadDataService.PushLeadToCrm(Entity lead)
+2019-08-05 10:44:36,831 [4] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Error Creating Lead from IFB.CRM.Services.Lead.models.amq.ContactUs 
+2019-08-05 10:44:36,831 [4] ERROR IFB.CRM.Services.Lead.handlers.ContactUsHandler - Message: Contact With Id = 00000000-0000-0000-0000-000000000000 Does Not Exist
+2019-08-05 10:44:36,909 [4] ERROR IFB.CRM.Services.Lead.Listener - Contact With Id = 00000000-0000-0000-0000-000000000000 Does Not Exist
+2019-08-05 10:45:08,140 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 10:46:05,962 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adf","lastName":"deeee","contactMethod":"Phone","phone":"(564) 654-6546","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"6654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:46:10,681 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adf","lastName":"deeee","contactMethod":"Phone","phone":"(564) 654-6546","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"6654654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:47:47,926 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 10:48:08,844 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"hate ","lastName":"this","contactMethod":"Phone","phone":"(464) 564-6546","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"546546546","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:48:13,876 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"hate ","lastName":"this","contactMethod":"Phone","phone":"(464) 564-6546","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"546546546","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:52:24,790 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 10:52:57,638 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"wag","lastName":"adfadf","contactMethod":"Phone","phone":"(465) 465-4654","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"465465465","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 10:53:01,467 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"wag","lastName":"adfadf","contactMethod":"Phone","phone":"(465) 465-4654","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"465465465","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 11:10:02,802 [1] DEBUG IFB.CRM.Services.Lead.Program - Initializing Environment Configuration
+2019-08-05 11:10:39,172 [4] DEBUG IFB.CRM.Services.Lead.subscriptions.Subscription - Received {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adf","lastName":"plplplp","contactMethod":"Phone","phone":"(545) 646-5456","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"654564654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 11:10:43,117 [4] DEBUG IFB.CRM.Services.Lead.handlers.ContactUsHandler - Processing incoming message: {"additionalDetails":null,"source":"IFBIWebSite","leadSourceCategory":"ContactUs","firstName":"adf","lastName":"plplplp","contactMethod":"Phone","phone":"(545) 646-5456","email":null,"formSourceSubCategory":"Policy Service","policyNumber":"654564654","comments":"adfadf","policyType":null,"agentFName":null,"agentLName":null,"agentEmail":null,"agentACID":null,"street":null,"apt":null,"city":null,"state":null,"zip":"46219","policyStreet":null,"policyApt":null,"policyCity":null,"policyState":null,"policyZip":null,"eventDate":null,"eventTime":null,"eventAmPm":null}
+2019-08-05 11:11:16,951 [4] INFO IFB.CRM.Services.Lead.dao.LeadDataService - Created Lead with ID: 17ad2134-93b7-e911-815a-00155dd9fb0c
