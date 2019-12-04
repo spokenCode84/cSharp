@@ -1,0 +1,31 @@
+﻿{
+  "instance": "Plch.Notifications.osTicket.aggregator.TopicAggregator",
+  "Topics": [
+    {
+      "id": 3,
+      "name": "Graphics",
+      "form": {
+        "id": 9,
+        "name": "Graphics Request",
+        "dueDateField": 43
+      },
+      "pastDueDays": 50,
+      "recurring": false,
+      "additionalRecipients": [
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Program",
+      "form": {
+        "id": 19,
+        "name": "Program Details",
+        "dueDateField": 74
+      },
+      "pastDueDays": 50,
+      "recurring": false,
+      "additionalRecipients": [
+      ]
+    }
+  ]
+}

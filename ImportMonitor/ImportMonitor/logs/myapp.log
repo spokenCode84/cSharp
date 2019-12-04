@@ -1,0 +1,6 @@
+2017-11-24 20:55:38,832 [1] DEBUG ImportMonitor.Program - TESTING TESTING ONE TWO THREEEE!
+2017-11-24 21:00:34,730 [1] DEBUG ImportMonitor.Program - TESTING TESTING ONE TWO THREEEE!
+2017-11-24 21:00:34,744 [1] ERROR ImportMonitor.Program - NOOO!
+2017-11-24 21:37:58,266 [1] INFO ImportMonitor.Common.Bootstrap - C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\..\..\config
+2017-11-24 21:37:58,280 [1] DEBUG ImportMonitor.Program - TESTING TESTING ONE TWO THREEEE!
+2017-11-24 21:37:58,280 [1] ERROR ImportMonitor.Program - NOOO!

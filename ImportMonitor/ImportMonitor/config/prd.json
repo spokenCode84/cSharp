@@ -1,0 +1,35 @@
+﻿{
+  "DEBUG": true,
+  "DataSource": {
+    "suffix": "PRD",
+    "instance": "DB-IMAGE-PRD\\PRD",
+    "db": "imageright",
+    "integrated": true,
+    "username": null,
+    "password": null
+  },
+  "AppServer": {
+    "name": "ap-imgap2-prd"
+  },
+  "UtilServers": [
+    {
+      "name": "ap-imgutila-prd",
+      "folder": "Imports",
+      "keyname": "IMPORT_SERVER1"
+    },
+    {
+      "name": "ap-imgutilb-prd",
+      "folder": "Imports",
+      "keyname": "IMPORT_SERVER2"
+    },
+    {
+      "name": "ap-imgutilc-prd",
+      "folder": "Imports",
+      "keyname": "IMPORT_SERVER3"
+    }
+  ],
+  "Jobs": {
+    "redrops": true,
+    "backups": true
+  }
+}

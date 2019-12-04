@@ -1,0 +1,12 @@
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\Plch.Notifications.osTicket.exe.config
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\Plch.Notifications.osTicket.exe
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\Plch.Notifications.osTicket.pdb
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\MySql.Data.dll
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\MySql.Data.xml
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\obj\Debug\Plch.Notifications.osTicket.csprojResolveAssemblyReference.cache
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\obj\Debug\Plch.Notifications.osTicket.exe
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\obj\Debug\Plch.Notifications.osTicket.pdb
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\Newtonsoft.Json.dll
+C:\plchdev\source\misc\Plch.Notifications.osTicket\Plch.Notifications.osTicket\bin\Debug\Newtonsoft.Json.xml

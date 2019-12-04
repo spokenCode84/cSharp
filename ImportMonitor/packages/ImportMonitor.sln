@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImportMonitor", "ImportMonitor\ImportMonitor.csproj", "{6918F84B-27E5-4343-99DD-7DBA99EAFC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6918F84B-27E5-4343-99DD-7DBA99EAFC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6918F84B-27E5-4343-99DD-7DBA99EAFC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6918F84B-27E5-4343-99DD-7DBA99EAFC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6918F84B-27E5-4343-99DD-7DBA99EAFC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EE1C9CF-34E8-45C4-8FFC-E12A81D16475}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.InstallLog
+   assemblypath = C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe
+Installing service ImportMonitor...
+Service ImportMonitor has been successfully installed.
+Creating EventLog source ImportMonitor in log Application...
+Committing assembly 'C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.InstallLog
+   assemblypath = C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe
+Uninstalling assembly 'C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.InstallLog
+   assemblypath = C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe
+Removing EventLog source ImportMonitor.
+Service ImportMonitor is being removed from the system...
+Service ImportMonitor was successfully removed from the system.

@@ -1,0 +1,14 @@
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe.config
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.exe
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\ImportMonitor.pdb
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Release\ImportMonitor.csprojResolveAssemblyReference.cache
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Release\ImportMonitor.ProjectInstaller.resources
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Release\ImportMonitor.csproj.GenerateResource.Cache
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Release\ImportMonitor.csproj.CoreCompileInputs.cache
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Release\ImportMonitor.exe
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Release\ImportMonitor.pdb
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\log4net.config
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\log4net.dll
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\Newtonsoft.Json.dll
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\log4net.xml
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Release\Newtonsoft.Json.xml

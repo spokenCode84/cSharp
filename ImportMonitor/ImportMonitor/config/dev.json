@@ -1,0 +1,29 @@
+﻿{
+  "ResetCache": true,
+  "DEBUG": true,
+  "DataSource": {
+    "suffix": "DEV",
+    "instance": "DB-SQLENT3-VSE\\DEV",
+    "db": "imageright",
+    "integrated": true,
+    "username": null,
+    "password": null
+  },
+  "AppServer": {
+    "name": "ap-imgap2-dev"
+  },
+  "UtilServers": [
+    {
+      "name": "ap-imgutil2-dev",
+      "folder": "Imports",
+      "keyname": "IMPORT_SERVER"
+    }
+  ],
+  "RunJobs": {
+    "redrops": false,
+    "backups": true
+  },
+  "DaysToKeep": 10
+}
+
+

@@ -1,0 +1,15 @@
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\log4net.config
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\ImportMonitor.exe.config
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\ImportMonitor.exe
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\ImportMonitor.pdb
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\log4net.dll
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\Newtonsoft.Json.dll
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\log4net.xml
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\bin\Debug\Newtonsoft.Json.xml
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.ProjectInstaller.resources
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.csproj.GenerateResource.Cache
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.exe
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.pdb
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.csprojAssemblyReference.cache
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.csproj.CoreCompileInputs.cache
+C:\ifbidev\dev\ImportMonitor\ImportMonitor\obj\Debug\ImportMonitor.csproj.CopyComplete
