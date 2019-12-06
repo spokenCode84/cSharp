@@ -1,0 +1,14 @@
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Notifications.exe.config
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Notifications.exe
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Notifications.pdb
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Data.dll
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Models.dll
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\MySql.Data.dll
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Newtonsoft.Json.dll
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Data.pdb
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Plch.OsTicket.Models.pdb
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\MySql.Data.xml
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\bin\Debug\Newtonsoft.Json.xml
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\obj\Debug\Plch.OsTicket.Notifications.csprojResolveAssemblyReference.cache
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\obj\Debug\Plch.OsTicket.Notifications.exe
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Notifications\obj\Debug\Plch.OsTicket.Notifications.pdb

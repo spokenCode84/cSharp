@@ -1,0 +1,6 @@
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Services\bin\Debug\Plch.OsTicket.Services.exe.config
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Services\bin\Debug\Plch.OsTicket.Services.exe
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Services\bin\Debug\Plch.OsTicket.Services.pdb
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Services\obj\Debug\Plch.OsTicket.Services.csprojResolveAssemblyReference.cache
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Services\obj\Debug\Plch.OsTicket.Services.exe
+c:\users\avogt\documents\visual studio 2015\Projects\Plch.OsTicket.Services\Plch.OsTicket.Services\obj\Debug\Plch.OsTicket.Services.pdb
